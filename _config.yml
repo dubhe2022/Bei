@@ -16,9 +16,9 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username:
 facebook_username:
-github_username: lework
-email: lework@yeah.com
-weibo_username: lework
+github_username: dubhe2022
+email: dubhe2000@outlook.com
+weibo_username: 
 zhihu_username:
 linkedIn_username:
 dribbble_username:
@@ -27,7 +27,7 @@ description_footer: 本站记录我成长之路的点点滴滴！
 
 # comments
 # 三种评论插件，选一个就好了
-disqus_shortname: #lework
+disqus_shortname: #Dubhe
 gitalk:
   enable: false
   clientID: 0f2905fdcd849f08a1c5
